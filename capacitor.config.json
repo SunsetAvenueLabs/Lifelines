@@ -1,0 +1,7 @@
+{
+  "appId": "com.lifelinesgame.app",
+  "appName": "Lifelines",
+  "webDir": "www",
+  "backgroundColor": "#F2A33A",
+  "android": { "allowMixedContent": false }
+}
